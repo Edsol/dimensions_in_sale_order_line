@@ -1,0 +1,20 @@
+
+#. module: dimensions_in_sale_order_line
+#: model:sale.order.line
+msgid "width"
+msgstr "larghezza"
+
+#. module: dimensions_in_sale_order_line
+#: model:sale.order.line
+msgid "height"
+msgstr "altezza"
+
+#. module: dimensions_in_sale_order_line
+#: model:sale.order.line
+msgid "<strong>width</strong>"
+msgstr "<strong>larghezza</strong>"
+
+#. module: dimensions_in_sale_order_line
+#: model:sale.order.line
+msgid "<strong>height</strong>"
+msgstr "<strong>altezza</strong>"
